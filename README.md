@@ -1,7 +1,7 @@
 # Chrome Extension with React.js Boilerplate
 
-[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/yilber/readme-boilerplate)
-[![License](https://img.shields.io/github/license/yilber/readme-boilerplate.svg)](https://github.com/Yilber/readme-boilerplate/blob/master/LICENSE)
+[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/vivek9patel/chrome-extension-react-boilerplate)
+[![License](https://img.shields.io/github/license/yilber/readme-boilerplate.svg)](https://github.com/vivek9patel/chrome-extension-react-boilerplate/blob/master/LICENCE)
 
 Boilerplate for your chrome extension with react.js and webpack
 
@@ -16,11 +16,11 @@ Open your terminal and type...
 ### Clone in your system
 
 ```sh
-$ git clone https://github.com/vivek9patel/chrome-extension-react-boilderplate.git
+$ git clone https://github.com/vivek9patel/chrome-extension-react-boilerplate.git
 ```
 
 ```sh
-$ cd chrome-extension-react-boilderplate
+$ cd chrome-extension-react-boilerplate
 ```
 
 ### Install dependencies & compile code with webpack
@@ -38,7 +38,7 @@ $ yarn run dev
 After all the above steps, you should able to see this file strucutre in the root directory:
 
 ```text
-chrome-extension-react-boilderplate
+chrome-extension-react-boilerplate
 ├── README.md
 ├── node_modules
 ├── dist
@@ -72,7 +72,7 @@ chrome-extension-react-boilderplate
 
 ## Bugs
 
-If you have questions, feature requests or a bug you want to report, please click [here](https://github.com/vivek9patel/chrome-extension-react-boilderplate/issues) to file an issue.
+If you have questions, feature requests or a bug you want to report, please click [here](https://github.com/vivek9patel/chrome-extension-react-boilerplate/issues) to file an issue.
 
 ## Author
 
