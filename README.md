@@ -17,6 +17,9 @@ Open your terminal and type...
 
 ```sh
 $ git clone https://github.com/vivek9patel/chrome-extension-react-boilderplate.git
+```
+
+```sh
 $ cd chrome-extension-react-boilderplate
 ```
 
@@ -24,6 +27,9 @@ $ cd chrome-extension-react-boilderplate
 
 ```sh
 $ yarn
+```
+
+```sh
 $ yarn run dev
 ```
 
@@ -70,10 +76,12 @@ If you have questions, feature requests or a bug you want to report, please clic
 
 ## Author
 
-- [**vivek9patel**](https://www.linkedin.com/in/vivek9patel/) [![GitHub followers](https://img.shields.io/github/followers/vivek9patel.svg?style=social)](https://github.com/yilber) [![Twitter Follow](https://img.shields.io/twitter/follow/vivek9patel.svg?style=social)](https://twitter.com/Yilber_M)
+- [**vivek9patel**](https://www.linkedin.com/in/vivek9patel/)
+- [![GitHub followers](https://img.shields.io/github/followers/vivek9patel.svg?style=social)](https://github.com/vivek9patel)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/vivek9patel.svg?style=social)](https://twitter.com/vivek9patel)
 
 ## Support
 
 Like what you see? Keep me awake at night by buying me a coffee or two.
 
-<a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+<a href="https://www.buymeacoffee.com/vivek9patel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
