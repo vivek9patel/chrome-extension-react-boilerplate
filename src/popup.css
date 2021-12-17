@@ -1,0 +1,14 @@
+/* replace with your css */
+.hello-world{
+    font-size: medium;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+}
+
+.link{
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
