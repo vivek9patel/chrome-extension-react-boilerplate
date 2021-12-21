@@ -16,21 +16,21 @@ Open your terminal and type...
 ### Clone in your system
 
 ```sh
-$ git clone https://github.com/vivek9patel/chrome-extension-react-boilerplate.git
+git clone https://github.com/vivek9patel/chrome-extension-react-boilerplate.git
 ```
 
 ```sh
-$ cd chrome-extension-react-boilerplate
+cd chrome-extension-react-boilerplate
 ```
 
 ### Install dependencies & compile code with webpack
 
 ```sh
-$ yarn
+yarn
 ```
 
 ```sh
-$ yarn run dev
+yarn run dev
 ```
 
 ## File structure
@@ -44,19 +44,23 @@ chrome-extension-react-boilerplate
 ├── dist
 │   ├── background.js
 │   ├── icons
-│   ├── main.js
-│   ├── main.js.LICENSE.txt
 │   ├── manifest.json
-│   └── popup.html
+│   ├── popup.html
+│   ├── popup.js
+│   └── popup.js.LICENSE.txt
 ├── package.json
 ├── public
-│   ├── background.js
-│   ├── icons
-│   └── manifest.json
+│   ├── icons
+│   │   ├── 128.png
+│   │   ├── 16.png
+│   │   └── 48.png
+│   ├── manifest.json
+│   └── popup.html
 ├── src
-│   ├── popup.css
-│   ├── popup.html
-│   └── popup.jsx
+│   ├── chrome
+│   │   └── background.js
+│   ├── popup.css
+│   └── popup.jsx
 ├── webpack.config.js
 ├── webpack.dev.js
 ├── webpack.prod.js
